@@ -1,4 +1,5 @@
-[
+{
+ "products":[
  {
   "prod_img": "https:\/\/n.nordstrommedia.com\/id\/sr3\/e52b3d19-7611-4b25-9342-f46ce7a75975.jpeg?h=365&w=240&dpr=2",
   "pro_brand": "vuori",
@@ -587,5 +588,5 @@
   "pro_price": "INR 4,393.89",
   "curr_price": "Current Price INR 4,393.89",
   "HZv8u": "(7)"
- }
-]
+ }]
+}
